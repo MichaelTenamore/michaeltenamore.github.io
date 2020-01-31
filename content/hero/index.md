@@ -5,4 +5,4 @@ subtitle: 'I build things that solve problems.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Wisconsin specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a software engineer based in WI specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
